@@ -1,6 +1,24 @@
+#heading1 {
+	text-align: center;
+	font-family: "georgia";
+}
 .myimg{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 	width: 300px;
 	height: 300px;
 	object-fit: cover;
-	border radius: 50%;
+	border-radius: 50%;
+}
+body {
+	background-color: #990000;
+}
+#heading2 {
+	font-size: 30px;
+	font-family: "georgia";
+}
+p, li {
+	font-size: 18px;
+	font-family: "georgia";
 }
