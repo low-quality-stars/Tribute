@@ -17,8 +17,15 @@ body {
 #heading2 {
 	font-size: 30px;
 	font-family: "georgia";
+	text-align: center;
 }
 p, li {
 	font-size: 18px;
 	font-family: "georgia";
+}
+p {
+	text-align: center;
+}
+#resources1 {
+	text-align: left;
 }
