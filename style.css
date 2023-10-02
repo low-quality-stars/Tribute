@@ -19,10 +19,18 @@ body {
 	font-family: "georgia";
 	text-align: center;
 }
-p, li {
+.paragraph, li {
 	font-size: 18px;
 	font-family: "georgia";
 }
-p {
+.paragraph {
+	text-align: center;
+}
+.paragraph2 {
+	font-family: "Times New Roman";
+	text-align: center;
+}
+#heading3 {
+	font-family: "Times New Roman";
 	text-align: center;
 }
